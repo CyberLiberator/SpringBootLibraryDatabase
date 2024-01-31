@@ -6,7 +6,6 @@ A modern library management system built with Spring Boot, ThymeLeaf, Bootstrap,
 
 - User-Friendly Interface: Utilizes ThymeLeaf and Bootstrap for a visually appealing and intuitive user experience.
 - Search and Filter: Enables users to quickly locate books through dynamic search and filter options.
-- API Integration: Integrates with external APIs for enhanced book data retrieval and enrichment.
 - Efficient Catalog Management: Allows librarians to manage the library catalog with ease, including adding, updating, and removing books.
 - Dynamic Borrowing: Facilitates seamless book borrowing and returns processes for patrons with dynamic tracking of loan periods and due dates.
 
