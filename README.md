@@ -1,8 +1,8 @@
-###Dynamic Library Management System
+### Dynamic Library Management System
 
 A modern library management system built with Spring Boot, ThymeLeaf, Bootstrap, and Maven integration. It provides librarians with a user-friendly interface for efficient catalog management and patrons with seamless book borrowing experiences.
 
-##Features
+## Features
 
 - User-Friendly Interface: Utilizes ThymeLeaf and Bootstrap for a visually appealing and intuitive user experience.
 - Advanced Search and Filter: Enables users to quickly locate books through dynamic search and filter options.
@@ -10,18 +10,18 @@ A modern library management system built with Spring Boot, ThymeLeaf, Bootstrap,
 - Efficient Catalog Management: Allows librarians to manage the library catalog with ease, including adding, updating, and removing books.
 - Dynamic Borrowing: Facilitates seamless book borrowing and returns processes for patrons with dynamic tracking of loan periods and due dates.
 
-##Technology Stack
+## Technology Stack
 
 - Backend: Java, Spring Boot
 - Frontend: ThymeLeaf, Bootstrap
 - Dependency Management: Maven
 
-##Prerequisites
+## Prerequisites
 
 - Java Development Kit (JDK)
 - Maven
 
-##Installation
+## Installation
 
 1. Clone the repository:
 
@@ -38,7 +38,7 @@ spring.datasource.password
 
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
 
-###Acknowledgements
+### Acknowledgements
 
 - Built with Spring Boot, ThymeLeaf, Bootstrap, and Maven.
 - Inspired by the need for a modern and efficient library management system.
