@@ -25,14 +25,13 @@ A modern library management system built with Spring Boot, ThymeLeaf, Bootstrap,
 
 1. Clone the repository:
 
-https://github.com/CyberLiberator/SpringBootMoviePortal.git
+   https://github.com/CyberLiberator/SpringBootMoviePortal.git
 
 2. Change the database login info:
 
-In the src/main/resources/application.properties
-change 
-spring.datasource.username
-spring.datasource.password
+  In the src/main/resources/application.properties change 
+  spring.datasource.username 
+  spring.datasource.password
 
 3. Contributing
 
