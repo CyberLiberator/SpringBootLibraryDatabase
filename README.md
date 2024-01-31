@@ -28,11 +28,13 @@ A modern library management system built with Spring Boot, ThymeLeaf, Bootstrap,
 
 2. Change the database login info:
 
-  	In the src/main/resources/application.properties change spring.datasource.username and spring.datasource.password
+  	In the src/main/resources/application.properties change spring.datasource.username, spring.datasource.password and local host address.
 
-3. Contributing
+3. Run as Spring boot app and open the local host you changed.
 
-	Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
+## Contributing
+
+	  Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
 
 ### Acknowledgements
 
