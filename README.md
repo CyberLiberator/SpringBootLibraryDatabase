@@ -1,4 +1,4 @@
-### Dynamic Library Management System
+# Dynamic Library Management System
 
 A modern library management system built with Spring Boot, ThymeLeaf, Bootstrap, and Maven integration. It provides librarians with a user-friendly interface for efficient catalog management and patrons with seamless book borrowing experiences.
 
